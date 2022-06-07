@@ -1,0 +1,18 @@
+Plantio_1
+Semente plantada: leituga
+Extensión en setctores: 8
+Data de plantación: 2022-05-06
+Data de colleita: 2022-06-23
+
+Plantio_3
+Semente plantada: fresa
+Extensión en setctores: 2
+Data de plantación: 2022-05-14
+Data de colleita: 2022-06-27
+
+Plantio_4
+Semente plantada: pataca
+Extensión en setctores: 18
+Data de plantación: 2022-05-29
+Data de colleita: 2022-06-20
+

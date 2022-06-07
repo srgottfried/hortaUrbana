@@ -1,0 +1,6 @@
+Plantío verde
+Semente plantada: tomate
+Extensión en setctores: 10
+Data de plantación: 2022-05-24
+Data de colleita: 2022-06-30
+
